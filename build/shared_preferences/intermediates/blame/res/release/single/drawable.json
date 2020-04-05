@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/files/desktop/flu/getit copy/build/shared_preferences/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/cc4e146a401e12618c8d4f31e70226a5/core-1.0.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/files/desktop/flu/getit copy/build/shared_preferences/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/cc4e146a401e12618c8d4f31e70226a5/core-1.0.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/files/desktop/flu/getit copy/build/shared_preferences/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/cc4e146a401e12618c8d4f31e70226a5/core-1.0.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/files/desktop/flu/getit copy/build/shared_preferences/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/cc4e146a401e12618c8d4f31e70226a5/core-1.0.0/res/drawable/notification_bg.xml"
+    }
+]

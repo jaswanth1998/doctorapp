@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">929365153709-uh74lnl0bss80a525e2s32gbn1tpf2d9.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://doctorguruconsole.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">929365153709</string>
+    <string name="google_api_key" translatable="false">AIzaSyA9iS2YMO0lJb6h_gCfBvbyWOV9cCnnyak</string>
+    <string name="google_app_id" translatable="false">1:929365153709:android:cb9121931d8943e575f324</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA9iS2YMO0lJb6h_gCfBvbyWOV9cCnnyak</string>
+    <string name="google_storage_bucket" translatable="false">doctorguruconsole.appspot.com</string>
+    <string name="project_id" translatable="false">doctorguruconsole</string>
+</resources>
